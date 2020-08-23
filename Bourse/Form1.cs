@@ -17,7 +17,8 @@ namespace Bourse
             //          var column1 = new List<string>();
             //           var column2 = new List<string>();
             //           var column3 = new List<string>();
-     
+            //  Bonjour salut
+            
             cmbChoix.SelectedIndex = 0;
             cbWebnetcenter.Items.Clear();
             cbTitre.Items.Clear();
